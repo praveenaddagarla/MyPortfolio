@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-portfolio-banner-image" alt="Portfolio Banner" width="80%">
+  <img src="https://github.com/user-attachments/assets/1e52a2de-c707-468d-800a-44c5090fdf88" alt="Portfolio Banner" width="80%">
 </p>
 
 ---
+
+
 
 ## 📸 Screenshots  
 
